@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartdncrypt",
+        "uuid": 12809600,
+        "checksum": "f70aw"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
